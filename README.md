@@ -1,7 +1,7 @@
 ### Hi there 👋
   <html>
   <head>
-    <title>我的個人簡介</title>
+    <title> This is my pages </title>
   </head>
   <body>
     <img src="Asia_University.png" alt = " University">
