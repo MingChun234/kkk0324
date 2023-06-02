@@ -1,6 +1,5 @@
 ### Hi there 👋
   
-  <!DOCTYPE html>
   <html>
   <body>
     
