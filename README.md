@@ -7,5 +7,5 @@
   <tbody>
     <tr>
       <td><a href="https://www.facebook.com/profile.php?id=100003832682807"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361100-1fe2b952-4a79-48ec-8646-58f1f4f9738c.gif" alt="icon | Facebook" width="60"/></a></td>
-      <td><a href="https://www.instagram.com/ming_junzzzzz/><img align="left" src="<img align="left" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="60"/></a></td>" alt="icon | Facebook" width="60"/></a></td>
+      <td><a href="https://www.instagram.com/ming_junzzzzz/><img align="left" src="<img align="left" src="<img align="left" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="60"/></a></td>
   
