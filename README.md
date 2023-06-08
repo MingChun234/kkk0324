@@ -10,3 +10,15 @@
       <td><a href="https://www.instagram.com/ming_junzzzzz/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="60"/></a></td>
       
       <img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=kkk0324&style=flat-square&&label=Profile+Views&color=50A1FF">
+
+---
+
+### Github Analytics
+<a href="https://github.com/kkk0324">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkk0324&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+
+### Most Used Languages
+<a href="https://github.com/kkk0324">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkk0324&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
+</a>
